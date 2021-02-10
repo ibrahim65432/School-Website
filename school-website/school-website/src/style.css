@@ -1,0 +1,50 @@
+#img-caption
+{
+  width: 270px;
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+#title
+{
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+ul{
+  display: table;
+  margin: 0 auto;
+  text-align:left;
+}
+
+
+
+p
+{
+  width: 500px;
+  margin: auto;
+}
+
+#list
+{
+  margin: auto;
+}
+
+img
+{
+  width: 250px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+blockquote {
+    max-width: 1000px;
+    text-align: center; 
+    margin:0 auto;
+    width:auto;
+    display:table
+}
